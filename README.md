@@ -32,6 +32,10 @@ already labeled as either **spam** or **ham (not spam)**.
 This data is used to train and test the machine learning model.
 
 ---
+## 📄 Dataset License
+The dataset used in this project is used strictly for educational
+and academic purposes only.
+---
 
 ## How the Project Works
 1. The email text data is cleaned and prepared  
